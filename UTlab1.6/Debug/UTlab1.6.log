@@ -1,0 +1,3 @@
+﻿     Создается библиотека C:\Users\vitaliy\source\repos\lab1.6\Debug\UTlab1.6.lib и объект C:\Users\vitaliy\source\repos\lab1.6\Debug\UTlab1.6.exp
+UTlab1.6.obj : error LNK2019: ссылка на неразрешенный внешний символ "public: bool __thiscall RightAngled::Init(double,double)" (?Init@RightAngled@@QAE_NNN@Z) в функции "public: void __thiscall UTlab16::UTlab16::TestMethod1(void)" (?TestMethod1@UTlab16@1@QAEXXZ).
+C:\Users\vitaliy\source\repos\lab1.6\Debug\UTlab1.6.dll : fatal error LNK1120: неразрешенных внешних элементов: 1
